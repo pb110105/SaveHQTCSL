@@ -1,0 +1,15 @@
+C:\Users\DELL\source\repos\QuanLyThuCungDBMS\QuanLyThuCungDBMS\bin\Debug\QuanLyThuCungDBMS.exe.config
+C:\Users\DELL\source\repos\QuanLyThuCungDBMS\QuanLyThuCungDBMS\bin\Debug\QuanLyThuCungDBMS.exe
+C:\Users\DELL\source\repos\QuanLyThuCungDBMS\QuanLyThuCungDBMS\bin\Debug\QuanLyThuCungDBMS.pdb
+C:\Users\DELL\source\repos\QuanLyThuCungDBMS\QuanLyThuCungDBMS\obj\Debug\QuanLyThuCungDBMS.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\QuanLyThuCungDBMS\QuanLyThuCungDBMS\obj\Debug\QuanLyThuCungDBMS.Properties.Resources.resources
+C:\Users\DELL\source\repos\QuanLyThuCungDBMS\QuanLyThuCungDBMS\obj\Debug\QuanLyThuCungDBMS.csproj.GenerateResource.cache
+C:\Users\DELL\source\repos\QuanLyThuCungDBMS\QuanLyThuCungDBMS\obj\Debug\QuanLyThuCungDBMS.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\QuanLyThuCungDBMS\QuanLyThuCungDBMS\obj\Debug\QuanLyThuCungDBMS.exe
+C:\Users\DELL\source\repos\QuanLyThuCungDBMS\QuanLyThuCungDBMS\obj\Debug\QuanLyThuCungDBMS.pdb
+C:\Users\DELL\source\repos\QuanLyThuCungDBMS\QuanLyThuCungDBMS\obj\Debug\QuanLyThuCungDBMS.exe.config
+C:\Users\DELL\source\repos\QuanLyThuCungDBMS\QuanLyThuCungDBMS\obj\Debug\QuanLyThuCungDBMS.LoginForm.resources
+C:\Users\DELL\source\repos\QuanLyThuCungDBMS\QuanLyThuCungDBMS\obj\Debug\QuanLyThuCungDBMS.AdminForm.resources
+C:\Users\DELL\source\repos\QuanLyThuCungDBMS\QuanLyThuCungDBMS\obj\Debug\QuanLyThuCungDBMS.CustomerForm.resources
+C:\Users\DELL\source\repos\QuanLyThuCungDBMS\QuanLyThuCungDBMS\obj\Debug\QuanLyThuCungDBMS.StaffForm.resources
+C:\Users\DELL\source\repos\QuanLyThuCungDBMS\QuanLyThuCungDBMS\obj\Debug\QuanLyThuCungDBMS.SignUp.resources
